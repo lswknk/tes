@@ -16,6 +16,9 @@ def get():
 
 def next():
 	pass
+	
+def next2():
+	pass
 
 
 
