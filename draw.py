@@ -9,6 +9,10 @@ import matplotlib
 #####正：chp01_eE_out (CHP1发电量）， chp02_eE_out（CHP2发电量）, *pv01_eE_out（光伏发电量）, *stg01_eE_out（储能放电量）, s1_eE_out（不足网补电量）;
 #####负：s1_eE_in（余电上网电量）, elecLoads_u1（用户总需求电量）, *stg01_eE_in（储能充电电量）
 
+def get():
+	pass
+
+
 
 
 def draw():
