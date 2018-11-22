@@ -14,6 +14,10 @@ def get():
 	print()
 
 
+def next():
+	pass
+
+
 
 def draw():
     plot_f = open('newjson.json', 'r')
