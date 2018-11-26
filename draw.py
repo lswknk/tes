@@ -11,6 +11,10 @@ rootDir = os.path.split(os.path.realpath(__file__))[0]
 # config.ini文件路径
 configFilePath = os.path.join(rootDir, 'config.ini')
 
+
+def fig():
+	print("KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK")
+
 def get_config_values(section, option):
     """
     根据传入的section获取对应的value
